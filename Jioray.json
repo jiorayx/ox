@@ -1,14 +1,6 @@
 [
     {
-        "name": "推荐",
-        "list": [
-            {
-                "name": "更新日志",
-                "url": "https://mirror.ghproxy.com/https://github.com/jiorayx/ox/raw/main/亲斤.txt",
-                "icon": "https://gitee.com/jioray/ox/raw/master/oxx.jpg",
-                "version": ""
-            }
-        ]
+        "name": "推荐"
     },
     {
         "name": "-OX-2.4.4-（提取码：3mxx）",
@@ -42,5 +34,16 @@
                 "copy": "https://drive.uc.cn/s/e544a64fa7544"
             }
         ]
-    }
+    },
+    {
+        "name": "更新日志",
+        "list": [
+            {
+                "name": "下载查看",
+                "url": "https://mirror.ghproxy.com/https://github.com/jiorayx/ox/raw/main/亲斤.txt",
+                "icon": "https://gitee.com/jioray/ox/raw/master/oxx.jpg",
+                "version": ""
+            }
+        ]
+    },
 ]
