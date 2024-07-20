@@ -1,0 +1,46 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "更新日志",
+                "url": "https://mirror.ghproxy.com/https://github.com/jiorayx/ox/raw/main/亲斤.txt",
+                "icon": "https://gitee.com/jioray/ox/raw/master/oxx.jpg",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "name": "-OX-2.4.4-提取码3mxx-",
+        "list": [
+            {
+                "name": "手机版32位",
+                "url": "https://gitee.com/jioray/ox/raw/master/OX.txt",
+                "icon": "https://gitee.com/jioray/ox/raw/master/ox.jpg",
+                "version": "",
+                "copy": "https://drive.uc.cn/s/e544a64fa7544"
+            },
+            {
+                "name": "手机版64位",
+                "url": "https://gitee.com/jioray/ox/raw/master/OX.txt",
+                "icon": "https://gitee.com/jioray/ox/raw/master/ox.jpg",
+                "version": "",
+                "copy": "https://drive.uc.cn/s/e544a64fa7544"
+            },
+            {
+                "name": "电视版32位",
+                "url": "https://gitee.com/jioray/ox/raw/master/OX.txt",
+                "icon": "https://gitee.com/jioray/ox/raw/master/ox.jpg",
+                "version": "",
+                "copy": "https://drive.uc.cn/s/e544a64fa7544"
+            },
+            {
+                "name": "电视版4.x",
+                "url": "https://gitee.com/jioray/ox/raw/master/OX.txt",
+                "icon": "https://gitee.com/jioray/ox/raw/master/ox.jpg",
+                "version": "",
+                "copy": "https://drive.uc.cn/s/e544a64fa7544"
+            }
+        ]
+    }
+]
